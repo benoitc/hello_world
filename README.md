@@ -1,9 +1,4 @@
 hello_world
 =====
 
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
+dummy app to test with some rebar3 plugin
